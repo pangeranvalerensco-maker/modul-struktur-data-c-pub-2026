@@ -1,4 +1,4 @@
-    # Modul Struktur Data Bahasa C - PUB
+# Modul Struktur Data Bahasa C - PUB
 
 Repositori ini merupakan pendamping kode untuk **Modul Struktur Data Bahasa C** dalam Program Beasiswa **Pemberdayaan Umat Berkelanjutan (PUB)**.
 
